@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1504866756 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"operaciones.h"
+
+1504866038 c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\funciones.h
+
+1504867098 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1504759966 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\tomar a y b.c
+	<stdio.h>
+	<stdlib.h>
+
+1504723575 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\suma.c
+	<stdio.h>
+	<stdlib.h>
+
+1504723719 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\resta.c
+	<stdio.h>
+	<stdlib.h>
+
+1504724569 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\divicion y multiplicacion.c
+	<stdio.h>
+	<stdlib.h>
+
+1504725487 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\factorial.c
+	<stdio.h>
+	<stdlib.h>
+
+1504857924 source:c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1504846166 c:\users\cristian\desktop\utn\tp 1 calculadora\tp_1_cascara\operaciones.h
+
+1504872850 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1504872543 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\divicion y multiplicacion.c
+	<stdio.h>
+	<stdlib.h>
+
+1504872543 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\factorial.c
+	<stdio.h>
+	<stdlib.h>
+
+1504723719 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\resta.c
+	<stdio.h>
+	<stdlib.h>
+
+1504723575 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\suma.c
+	<stdio.h>
+	<stdlib.h>
+
+1504845026 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\tomar a y b.c
+	<stdio.h>
+	<stdlib.h>
+
+1504873176 source:g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"operaciones.h"
+
+1504872543 g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\funciones.h
+
+1504846166 g:\users\edgardo\desktop\practica cristian\calculadora\tp 1 calculadora\tp_1_cascara\operaciones.h
+
